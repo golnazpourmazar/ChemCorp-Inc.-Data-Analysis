@@ -3,25 +3,24 @@ ChemCorp’s current portfolio includes six primary industries and eleven differ
 chemical products. These industries and chemicals are listed below:
 
 Industries
-● Aerospace Defence
-● Biotechnology
-● Machinery and Industrial Goods
-● Medical Equipment
-● Paper and Packaging
-● Pharmaceuticals
+- Aerospace Defence - Biotechnology
+- Machinery and Industrial Goods
+- Medical Equipment
+- Paper and Packaging
+- Pharmaceuticals
 
 Chemicals
-● Chemical A (Speciality)
-● Chemical B
-● Chemical C
-● Chemical D
-● Chemical E
-● Chemical F
-● Chemical G (Speciality)
-● Chemical H
-● Chemical I
-● Chemical J (Speciality)
-● Chemical K
+- Chemical A (Speciality)
+- Chemical B
+- Chemical C
+- Chemical D
+- Chemical E
+- Chemical F
+- Chemical G (Speciality)
+- Chemical H
+- Chemical I
+- Chemical J (Speciality)
+- Chemical K
 
 Management has concluded that to best address the loss of customers and protect
 the existing market share, an immediate short-term action plan needs to be drafted.
