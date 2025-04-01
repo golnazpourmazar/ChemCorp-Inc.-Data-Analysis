@@ -30,3 +30,5 @@ attention towards:
 “How can ChemCorp prevent the loss of future market share through the
 identification of future growth industries and identification of at least one
 divestment product in at least one of our industries?”
+
+Link to Tableau presentation : https://public.tableau.com/app/profile/golnaz.pourmazar/viz/ChemCorpInc_Presentation_17401713744740/ChemCorpPresentation
